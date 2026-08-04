@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["COMMENT_PREFIX","INTERCEPTOR_PREFIX","QUERY_DELIMITER"],"enum":["CompatPhase","CompatTopology"],"fn":["create_interceptor_registry","default_compat_case_dir","parse_sql_file","resolve_bins","run_compat_phase","run_namespace_prelude","simple_diff","trim_trailing_blank_lines"],"struct":["CompatCommand","EtcdGuard","ParsedStatement"]};

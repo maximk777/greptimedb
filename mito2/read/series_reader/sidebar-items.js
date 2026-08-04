@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["TSID_DOMAIN_END"],"struct":["SeriesRange"]};
